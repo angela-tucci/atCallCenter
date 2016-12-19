@@ -1,0 +1,9 @@
+C:\Users\angela\Desktop\to keep\C#\atCallCenter\atCallCenter\bin\Debug\atCallCenter.exe.config
+C:\Users\angela\Desktop\to keep\C#\atCallCenter\atCallCenter\bin\Debug\atCallCenter.exe
+C:\Users\angela\Desktop\to keep\C#\atCallCenter\atCallCenter\bin\Debug\atCallCenter.pdb
+C:\Users\angela\Desktop\to keep\C#\atCallCenter\atCallCenter\obj\Debug\atCallCenter.csprojResolveAssemblyReference.cache
+C:\Users\angela\Desktop\to keep\C#\atCallCenter\atCallCenter\obj\Debug\atCallCenter.exe
+C:\Users\angela\Desktop\to keep\C#\atCallCenter\atCallCenter\obj\Debug\atCallCenter.pdb
+C:\Users\angela\Desktop\to keep\C#\atCallCenter\atCallCenter\obj\Debug\atCallCenter.UI.MainForm.resources
+C:\Users\angela\Desktop\to keep\C#\atCallCenter\atCallCenter\obj\Debug\atCallCenter.csproj.GenerateResource.Cache
+C:\Users\angela\Desktop\to keep\C#\atCallCenter\atCallCenter\obj\Debug\atCallCenter.UI.TopRecordsForm.resources
